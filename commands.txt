@@ -1,4 +1,4 @@
-git add //
-git commit -m "add something"
-git push
-sdafdfrgrgr
+git add //добавить
+git commit -m "add something" //описание для команды
+git push //отправить
+git pull //проверка файлов
